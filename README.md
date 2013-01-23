@@ -1,4 +1,4 @@
 tank-repo
 =========
 
-Tank game code
+You can see the source code of the game here. 
